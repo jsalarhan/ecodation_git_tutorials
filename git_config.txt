@@ -1,0 +1,3 @@
+git config --global user.name ""[DgitHubUserName"
+git config --global user.name [D[D[D[D[De[C[Cmail ""[Djsalarhan@gmail.com"
+git config --global -1
