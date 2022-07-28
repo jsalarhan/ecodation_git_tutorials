@@ -3,3 +3,22 @@ git: VCS s
 
 clear
 
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jsalarhan/ecodation_git_tutorials.git
+git push -u origin main
+
+
+
+
+
+
+
+
+
+
+
+
+
